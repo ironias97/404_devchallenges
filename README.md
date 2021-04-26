@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@your-username](https://github.com/ironias97)
-- Twitter [@your-twitter](https://twitter.com/ironias97)
+- GitHub [@ironias97](https://github.com/ironias97)
+- Twitter [@ironias97](https://twitter.com/ironias97)
